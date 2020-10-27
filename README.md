@@ -1,4 +1,20 @@
-# Marlin 3D Printer Firmware customized for my upgrade to Ender-3 Pro
+# Marlin 3D Printer Firmware
+
+## Customized for my upgrade to Ender-3 Pro
+1. Removed original motherboard (v1.1.4). Replace with BTT SKR 1.4 (non-Turbo) with TMC2209 silent stepper drivers.
+
+https://www.banggood.com/BIGTREETECH-SKR-V1_4-or-SKR-V1_4-Turbo-Control-Board-32-Bit-3D-Printer-Mainboard-Support-TMC2130-or-TMC2209-or-TMC2208-p-1622520.html?rmmds=myorder&ID=6290339&cur_warehouse=CN
+
+https://www.banggood.com/BIGTREETECH-TMC2209-V1_2-Silent-StepSticks-Stepper-Motor-Driver-VS-TMC2130-or-TMC5160-for-3D-Printer-Parts-SKR-V1_3-or-mini-E3-p-1599552.html?rmmds=myorder&cur_warehouse=CN
+
+2. Replaced stock display (dummy LCD12864) to TFT35 E3 (with touch)
+https://www.banggood.com/BIGTREETECH-TFT35-E3-V3_0-Touch-Screen-Two-Working-Modes-12864LCD-or-Touch-Screen-Mode-Ultra-clear-3D-Printer-Display-p-1649859.html?rmmds=myorder&cur_warehouse=CN
+
+3. BLTouch Auto-leveling sensor (for automatic bed leveling)
+https://www.banggood.com/Auto-Bed-Leveling-Sensor-V3_0-3D-Leveling-Touch-For-Reprap-3D-Printer-Part-Mainboard-Heated-Bed-p-1569989.html?rmmds=myorder&cur_warehouse=CN
+
+4. Lerdge Filament Runout sensor
+https://www.banggood.com/Lerdge-1_75mm-Filament-Material-Run-Out-Detection-Module-Sensor-For-3D-Printer-Parts-p-1323359.html?rmmds=myorder&cur_warehouse=CN
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
 ![GitHub contributors](https://img.shields.io/github/contributors/marlinfirmware/marlin.svg)
